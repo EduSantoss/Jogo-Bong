@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Laura/MyGame/Content/alien.png","C:/Users/Laura/MyGame/Content/bin/DesktopGL/alien.xnb","TextureProcessor","Texture2DContent",2202,131157,0.3898973
+"C:/Users/Laura/MyGame/Content/arial24.spritefont","C:/Users/Laura/MyGame/Content/bin/DesktopGL/arial24.xnb","FontDescriptionProcessor","SpriteFontContent",2005,70687,0.2421096
+"C:/Users/Laura/MyGame/Content/background.png","C:/Users/Laura/MyGame/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",4537,1536085,0.1096011
+"C:/Users/Laura/MyGame/Content/ball.png","C:/Users/Laura/MyGame/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",2246,4181,0.0049328
+"C:/Users/Laura/MyGame/Content/bar.png","C:/Users/Laura/MyGame/Content/bin/DesktopGL/bar.xnb","TextureProcessor","Texture2DContent",179,9685,0.0053333

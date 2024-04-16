@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Laura/MyGame/Content/alien.png","C:/Users/Laura/MyGame/Content/bin/DesktopGL/Content/alien.xnb","TextureProcessor","Texture2DContent",2202,131157,0.2944881
+"C:/Users/Laura/MyGame/Content/arial24.spritefont","C:/Users/Laura/MyGame/Content/bin/DesktopGL/Content/arial24.xnb","FontDescriptionProcessor","SpriteFontContent",2005,70687,0.9401746
+"C:/Users/Laura/MyGame/Content/background.png","C:/Users/Laura/MyGame/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",4537,1536085,0.6288275
+"C:/Users/Laura/MyGame/Content/ball.png","C:/Users/Laura/MyGame/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",2246,4181,0.0053716
+"C:/Users/Laura/MyGame/Content/bar.png","C:/Users/Laura/MyGame/Content/bin/DesktopGL/Content/bar.xnb","TextureProcessor","Texture2DContent",179,9685,0.004785
+"C:/Users/Laura/MyGame/Content/coin_animation.png","C:/Users/Laura/MyGame/Content/bin/DesktopGL/Content/coin_animation.xnb","TextureProcessor","Texture2DContent",84768,393301,0.064226
